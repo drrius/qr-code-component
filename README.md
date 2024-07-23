@@ -17,6 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Solution](./qr-code-component//public/solution.png)
 
+[Live version](https://qr-code-component-pearl-chi.vercel.app)
+
 ## My process
 
 ### Built with
